@@ -8,7 +8,7 @@ Quickly set up and activate your Discover card at discover.com/activate with saf
 
 .. image:: activatenow.png
    :alt: discover.com/activate
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://fm.ci?aHR0cHM6Ly9kaXNjb3ZlcmNhcmRoZWxwbGluZS5yZWFkdGhlZG9jcy5pbw==
 
 ========================================
 How to Use Discover.com/Activate for Safe and Fast Card Setup?
@@ -18,13 +18,18 @@ When you get a new Discover card, the first thing you need to do is activate it.
 
 1. Go to the website - Open your phone or computer and type Discover.com/Activate in the browser. This is the special website where you will activate your card safely.
 
+
 2. Find the activation page - Once the website loads, look for the button or link that says “Activate Card.” Click on it to start.
+
 
 3. Enter your card details - Now, you need to type in your card number. This is the long number printed on the front of your Discover card. Make sure you type it carefully without any mistakes.
 
+
 4. Provide personal info - Discover may ask for your name, the security code on the back of the card (called CVV), and sometimes your date of birth or Social Security Number to confirm it is really you. Don’t worry — this is just to keep your card safe from others.
 
+
 5. Submit and wait - After filling in all the details, click on the “Submit” or “Activate” button. Usually, your card activates instantly or within a few minutes.
+
 
 6. Confirmation - You will see a message on the screen telling you that your card is active and ready to use. Sometimes you may get an email or text message for confirmation too.
 
@@ -35,11 +40,15 @@ Why Use Discover.com/Activate?
 
 1. It is the safest way to activate your card without calling anyone.
 
+
 2. You can do it anytime and anywhere using your phone or computer.
+
 
 3. The website uses special technology to keep your information secure.
 
+
 4. Activation is fast, so you don’t have to wait long to shop or pay bills.
+
 
 Remember, never share your card details on other websites or with strangers. Always use Discover.com/Activate for safe activation.
 
