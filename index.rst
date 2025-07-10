@@ -8,7 +8,7 @@ Quickly set up and activate your Discover card at discover.com/activate with saf
 
 .. image:: activatenow.png
    :alt: discover.com/activate
-   :target: https://discovercomactivate.blogspot.com/
+   :target: https://pre.im/?yFluJEmDu0Xf4AgCCBYR7M0rTYC678CzGIpdzO2hIgquHlrH9tXgj8lum6FxSDziDVSgLcS
 
 ========================================
 How to Use Discover.com/Activate for Safe and Fast Card Setup?
